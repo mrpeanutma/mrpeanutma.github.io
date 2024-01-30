@@ -147,3 +147,15 @@ form {
     display: grid;
     grid-template-columns: 1fr 5fr;
 }
+
+.contact {
+    margin: 10px;
+    color: #ffde08;
+    text-align: center;
+}
+
+.contact > h1 {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+}
